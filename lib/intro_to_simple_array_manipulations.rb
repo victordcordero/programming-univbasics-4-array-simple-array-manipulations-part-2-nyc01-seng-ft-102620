@@ -2,6 +2,6 @@ def using_concat(array_one,array_two)
   array_one.concat(array_two)
 end
 
-def using_insert(paramater,element)
+def using_insert(array,paramater)
   array.insert(array[4])
 end
