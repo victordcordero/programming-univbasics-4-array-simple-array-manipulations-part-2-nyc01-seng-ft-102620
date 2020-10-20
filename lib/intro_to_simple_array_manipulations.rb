@@ -9,4 +9,5 @@ paramater.insert(4)
 end
 
 def using_uniq(array)
-  
+  array.uniq
+end
