@@ -5,7 +5,6 @@ def using_concat(array_one,array_two)
 end
 
 def using_insert(array,element)
-  binding.pry
   array.insert(-2,0)
   array.insert(element)
 end
