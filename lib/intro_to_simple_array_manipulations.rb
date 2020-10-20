@@ -7,3 +7,6 @@ end
 def using_insert(array,paramater)
 paramater.insert(4)
 end
+
+def using_uniq(array)
+  
