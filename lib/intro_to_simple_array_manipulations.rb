@@ -6,7 +6,7 @@ end
 
 def using_insert(array,element)
 array.length + 1
-array.insert(2)
+array.insert(3)
 end
 
 def using_uniq(array)
